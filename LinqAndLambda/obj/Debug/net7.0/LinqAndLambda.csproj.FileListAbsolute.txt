@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\bin\Debug\net7.0\LinqAndLambda.exe
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\bin\Debug\net7.0\LinqAndLambda.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\bin\Debug\net7.0\LinqAndLambda.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\bin\Debug\net7.0\LinqAndLambda.dll
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\bin\Debug\net7.0\LinqAndLambda.pdb
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.dll
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\refint\LinqAndLambda.dll
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.pdb
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\LinqAndLambda.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\LinqAndLambda\LinqAndLambda\obj\Debug\net7.0\ref\LinqAndLambda.dll
